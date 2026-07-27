@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.gmds.app",
+        "sha256_cert_fingerprints": ["CB:F4:6A:4C:55:78:17:9F:B8:36:F3:84:83:80:40:7C:49:D7:AF:07:17:40:41:3F:62:6F:CB:6D:7B:0B:B3:59"]
+      }
+}]
